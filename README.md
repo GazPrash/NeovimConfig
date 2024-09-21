@@ -1,4 +1,4 @@
 # 💤 LazyVim
 My Neovim Config using the LazyVIm Distro.
 
-![image](https://github.com/user-attachments/assets/9142bf6b-f11f-47b3-a17b-7dda1b7aee57)
+![image](https://github.com/user-attachments/assets/3d6119c9-7fce-45a7-9e27-ebf015b9b985)
